@@ -5,6 +5,8 @@
 
 - 👨‍💻 Here is my portofolio [https://avramalin.github.io/AvramAlinPortofolio/](https://avramalin.github.io/AvramAlinPortofolio/)
 
+- 😊 Get your daily adivce :) [https://avramalin.github.io/AdviceOfTheDay/](https://avramalin.github.io/AdviceOfTheDay/)
+
 - 📫 How to reach me **avramalinmedia@gmail.com**
 
 - ⚡ Fun fact **I play guitar and sing :)**
